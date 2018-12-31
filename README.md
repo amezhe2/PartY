@@ -1,13 +1,14 @@
 # PartY
 PartY Inventory Management System User Guide
 
-To begin using PartY:
+## To begin using PartY:
+
 1. Ensure you have a license for MS SQLServer (may have built-in SQLite in the future)
 2. open PartY.exe
 3. Select menu dropdown File > Select...
 4. Open PartYInventory.mdf
 
-SALES TAB:
+## SALES TAB:
 	left column:
 		image of item
 			-set by user in add/modify tab
@@ -28,7 +29,7 @@ SALES TAB:
 		list of inventory
 			-select items then click add to cart
 
-STATISTICS TAB:
+## STATISTICS TAB:
 	left column:
 		<data> by <frame> analysis
 			-allows you to see how well sales are per time frame or venue
@@ -36,7 +37,7 @@ STATISTICS TAB:
 		top charts
 			-shows top items
 			
-RESTOCK TAB:
+## RESTOCK TAB:
 	left column:
 		list of inventory
 		quantity to add
@@ -45,7 +46,7 @@ RESTOCK TAB:
 			-currently does nothing, but future update planned for notifying when items are low in stock
 			-by default is resume restock, but if discontinued, in the future, there will be no notification if stock is low
 
-ADD/MODIFY TAB:
+## ADD/MODIFY TAB:
 	left column:
 		Add New Price
 			-add a name of a size and its price, for example 11x17 print, or medium shirt
@@ -80,7 +81,7 @@ ADD/MODIFY TAB:
 		venue list
 		remove venue button
 		
-ABOUT TAB:
+## ABOUT TAB:
 	PartY logo
 	Version information
 	TODO
