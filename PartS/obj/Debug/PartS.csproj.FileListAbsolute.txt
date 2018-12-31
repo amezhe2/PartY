@@ -1,0 +1,37 @@
+c:\users\amezheritskiy\documents\visual studio 2015\Projects\PartS\PartS\bin\Debug\PartS.exe.config
+c:\users\amezheritskiy\documents\visual studio 2015\Projects\PartS\PartS\obj\Debug\PartS.csprojResolveAssemblyReference.cache
+c:\users\amezheritskiy\documents\visual studio 2015\Projects\PartS\PartS\obj\Debug\PartS.Form1.resources
+c:\users\amezheritskiy\documents\visual studio 2015\Projects\PartS\PartS\obj\Debug\PartS.Properties.Resources.resources
+c:\users\amezheritskiy\documents\visual studio 2015\Projects\PartS\PartS\obj\Debug\PartS.csproj.GenerateResource.Cache
+c:\users\amezheritskiy\documents\visual studio 2015\Projects\PartS\PartS\bin\Debug\PartS.exe
+c:\users\amezheritskiy\documents\visual studio 2015\Projects\PartS\PartS\bin\Debug\PartS.pdb
+c:\users\amezheritskiy\documents\visual studio 2015\Projects\PartS\PartS\obj\Debug\PartS.exe
+c:\users\amezheritskiy\documents\visual studio 2015\Projects\PartS\PartS\obj\Debug\PartS.pdb
+C:\Users\amezheritskiy\Dropbox\PartS\PartS\bin\Debug\PartS.exe.config
+C:\Users\amezheritskiy\Dropbox\PartS\PartS\obj\Debug\PartS.exe
+C:\Users\amezheritskiy\Dropbox\PartS\PartS\obj\Debug\PartS.pdb
+C:\Users\amezheritskiy\Dropbox\PartS\PartS\bin\Debug\PartS.exe
+C:\Users\amezheritskiy\Dropbox\PartS\PartS\bin\Debug\PartS.pdb
+C:\Users\amezheritskiy\Dropbox\PartS\PartS\obj\Debug\PartS.csprojResolveAssemblyReference.cache
+C:\Users\amezheritskiy\Dropbox\PartS\PartS\obj\Debug\PartS.Form1.resources
+C:\Users\amezheritskiy\Dropbox\PartS\PartS\obj\Debug\PartS.Properties.Resources.resources
+C:\Users\amezheritskiy\Dropbox\PartS\PartS\obj\Debug\PartS.csproj.GenerateResource.Cache
+C:\Users\Scootaloo\Dropbox\PartS\PartS\bin\Debug\PartS.exe.config
+C:\Users\Scootaloo\Dropbox\PartS\PartS\bin\Debug\PartS.exe
+C:\Users\Scootaloo\Dropbox\PartS\PartS\bin\Debug\PartS.pdb
+C:\Users\Scootaloo\Dropbox\PartS\PartS\obj\Debug\PartS.csprojAssemblyReference.cache
+C:\Users\Scootaloo\Dropbox\PartS\PartS\obj\Debug\PartS.Form1.resources
+C:\Users\Scootaloo\Dropbox\PartS\PartS\obj\Debug\PartS.Properties.Resources.resources
+C:\Users\Scootaloo\Dropbox\PartS\PartS\obj\Debug\PartS.csproj.GenerateResource.cache
+C:\Users\Scootaloo\Dropbox\PartS\PartS\obj\Debug\PartS.csproj.CoreCompileInputs.cache
+C:\Users\Scootaloo\Dropbox\PartS\PartS\obj\Debug\PartS.exe
+C:\Users\Scootaloo\Dropbox\PartS\PartS\obj\Debug\PartS.pdb
+C:\Users\amezheritskiy\Dropbox\PartY\PartS\bin\Debug\PartS.exe.config
+C:\Users\amezheritskiy\Dropbox\PartY\PartS\obj\Debug\PartS.exe
+C:\Users\amezheritskiy\Dropbox\PartY\PartS\obj\Debug\PartS.pdb
+C:\Users\amezheritskiy\Dropbox\PartY\PartS\bin\Debug\PartS.exe
+C:\Users\amezheritskiy\Dropbox\PartY\PartS\bin\Debug\PartS.pdb
+C:\Users\amezheritskiy\Dropbox\PartY\PartS\obj\Debug\PartS.csprojResolveAssemblyReference.cache
+C:\Users\amezheritskiy\Dropbox\PartY\PartS\obj\Debug\PartS.Form1.resources
+C:\Users\amezheritskiy\Dropbox\PartY\PartS\obj\Debug\PartS.Properties.Resources.resources
+C:\Users\amezheritskiy\Dropbox\PartY\PartS\obj\Debug\PartS.csproj.GenerateResource.Cache

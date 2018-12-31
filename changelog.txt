@@ -1,0 +1,18 @@
+PartY changelog
+
+v1.0.0
+	*created
+	
+v1.1.0
+	*fixed bug where items and sizes with spaces could not be found
+	+added functionality to save and restore DB using CSVs
+	*adding item now clears textbox
+	+added indexing on foreign keys
+	+added statistics by profit
+	
+v1.2.0
+	+added way to calculate price after fees
+	
+TODO:
+add notification for low stock
+streamline filepaths and sql command calls
