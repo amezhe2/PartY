@@ -3,8 +3,9 @@ PartY Inventory Management System User Guide
 
 To begin using PartY:
 1. Ensure you have a license for MS SQLServer (may have built-in SQLite in the future)
-2. Select menu dropdown File > Select...
-3. Open PartYInventory.mdf
+2. open PartY.exe
+3. Select menu dropdown File > Select...
+4. Open PartYInventory.mdf
 
 SALES TAB:
 	left column:
